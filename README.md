@@ -1,7 +1,7 @@
 
   <a href="https://github.com/bouchraakl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bouchraakl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouchraakl&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="190em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouchraakl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   
