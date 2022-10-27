@@ -4,7 +4,7 @@
 
 <div id="top"></div>
 <p align="center">
-Bouchra Assad Akl, an active and youthful Software Engineer Student.</p>
+Bouchra Assad Akl, an active Software Engineer Student.</p>
 
 
 <!-- TechNicals skills-->
