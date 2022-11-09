@@ -24,6 +24,8 @@ Bouchra Assad Akl, an active Software Engineer Student.</p>
 
 <!-- Git Statics -->
 ## Git-Statics
+<a href="https://github.com/bouchraakl">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bouchraakl&show_icons=true&theme=dracula&include_all_commits=true&layout=compact&hide=html,css&title_color=cf8ba3&text_color=000000&icon_color=e899dc&bg_color=ffffff"/>
   <img  align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouchraakl&layout=compact&hide=html,css&title_color=cf8ba3&text_color=000000&icon_color=e899dc&bg_color=ffffff"/>
 <p align="right">(<a href="#top">Back To Top</a>)</p>
 
