@@ -1,4 +1,4 @@
-<a href=""><img width="972" height="330" align="center" alt="Captura de tela 2022-11-28 114355" src="https://user-images.githubusercontent.com/97567643/204306969-fdec3800-334d-491c-b78a-65973f905e52.png"></a>
+<a href=""><img width="972" height="270" align="center" alt="Captura de tela 2022-11-28 114355" src="https://user-images.githubusercontent.com/97567643/204306969-fdec3800-334d-491c-b78a-65973f905e52.png"></a>
 
 <div align="center">
   <a href="https://www.instagram.com/bouchra_akl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
