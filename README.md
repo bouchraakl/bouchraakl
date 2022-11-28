@@ -4,6 +4,7 @@
   <a href="https://www.instagram.com/bouchra_akl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
   <a href="https://www.linkedin.com/in/bouchra-akl/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
   <a href="https://twitter.com/AklBouchra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+  <a href="mailto:bushraakl1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 </div>
 
 <!-- TechNicals skills-->
@@ -28,13 +29,7 @@
   <img  align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouchraakl&layout=compact&hide=html,css&title_color=cf8ba3&text_color=000000&icon_color=e899dc&bg_color=ffffff"/>
 <p align="right">(<a href="#top">Back To Top</a>)</p>
 
-<!-- Content -->
-## Contact Me
- <a href="https://www.instagram.com/bouchra_akl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.facebook.com/boushra.akl/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-<a href = "mailto:bushraakl1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bouchra-assad-akl-6b8853225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/AklBouchra" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+
 
 
 <p align="right">(<a href="#top">Back To Top</a>)</p>
