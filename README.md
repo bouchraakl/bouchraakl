@@ -21,7 +21,7 @@ const bouchraAkl = {
   code: [Javascript, C, HTML, CSS, C++],
   tools: [BootStrap, Figma, Git],
   softSkills: ["Creative Thinker", "Fast Learner", "Good Time Manager"],
-  challenge: "Learning JavaScript FrameWorks"
+  challenge: "Developing Front-End Skills In #100dayschallenge"
 }
 ```
 <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" align="center" width="1070">
