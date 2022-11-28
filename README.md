@@ -24,7 +24,6 @@ const bouchraAkl = {
   challenge: "Learning JavaScript FrameWorks"
 }
 ```
-
 <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" align="center" width="1070">
 
  
