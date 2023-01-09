@@ -24,6 +24,6 @@ const bouchraAkl = {
   challenge: "Developing Front-End Skills In #100dayschallenge"
 }
 ```
-<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" align="center" width="1070">
+
 
  
