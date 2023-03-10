@@ -19,7 +19,7 @@ const bouchraAkl = {
   pronouns: "she" | "her",
   nationality: [Brazilian,Lebanese]
   code: [Javascript,HTML,CSS,C++,C,JAVA],
-  tools: [BootStrap, Figma, Git],
+  tools: [GitHub, Git , Figma],
   softSkills: ["Creative Thinker", "Fast Learner", "Good Time Manager"],
 }
 ```
