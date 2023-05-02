@@ -18,7 +18,7 @@
 const bouchraAkl = {
   pronouns: "she" | "her",
   nationality: [Brazilian,Lebanese]
-  code: [Javascript, HTML ,CSS , C++, C, JAVA],
+  code: [Java, SpringBoot, C++, C, HTML,CSS],
   tools: [GitHub, Git , Figma],
   softSkills: ["Creative Thinker", "Fast Learner", "Good Time Manager"],
 }
