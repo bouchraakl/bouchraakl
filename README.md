@@ -23,6 +23,10 @@ const bouchraAkl = {
   softSkills: ["Fast Learner", "Teamwork", "Adaptability"],
 }
 ```
+<div align="left">  
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bouchraakl&show_icons=true&count_private=true&hide_border=true&title_color=FFB6C1&icon_color=FFB6C1&text_color=6D6D6D&bg_color=F2F2F2&hide_border=true&cache_seconds=14400&locale=en&border_radius=6" alt="Bouchra Akl github stats" /> 
+  <img width="31%" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouchraakl&layout=compact&hide_border=true&title_color=FFB6C1&text_color=6D6D6D&icon_color=FFB6C1&bg_color=F2F2F2&hide_border=true&cache_seconds=14400&locale=en&border_radius=6" />
+</div>
 
 
  
