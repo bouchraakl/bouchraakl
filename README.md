@@ -17,10 +17,10 @@
 ```javascript
 const bouchraAkl = {
   pronouns: "she" | "her",
-  nationality: [Brazilian,Lebanese]
-  code: [Java, SpringBoot, C++, C, HTML,CSS],
-  tools: [GitHub, Git , Figma],
-  softSkills: ["Creative Thinker", "Fast Learner", "Good Time Manager"],
+  nationality: ["Brazilian", "Lebanese"],
+  code: ["Java", "Spring Boot", "JavaScript", "HTML", "CSS", "C", "PostgreSQL"],
+  tools: ["Figma", "Git"],
+  softSkills: ["Fast Learner", "Teamwork", "Adaptability"],
 }
 ```
 
