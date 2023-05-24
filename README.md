@@ -19,20 +19,14 @@ const bouchraAkl = {
   pronouns: "she" | "her",
   nationality: ["Brazilian", "Lebanese"],
   interests: ['Backend development', 'Data Structures and Algorithms', 'Web development','Open-source projects'],
+  skills: ["C", "Java","Spring Boot", "PostgreSQL", "JavaScript", "HTML/CSS","Bootstrap","Git","Figma"],
   motto: 'Pushing boundaries, one commit at a time! ✨'
 }
 ```
-## Skills
-  <div align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=whitee">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<div align="left">  
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bouchraakl&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=2F4F4F&bg_color=F5F5F5&hide_border=true&cache_seconds=14400&locale=en&border_radius=6" alt="Bouchra Akl GitHub Stats" /> 
+
 </div>
+
+
 
