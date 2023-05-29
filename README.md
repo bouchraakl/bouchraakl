@@ -19,14 +19,37 @@ const bouchraAkl = {
   pronouns: "she" | "her",
   nationality: ["Brazilian", "Lebanese"],
   interests: ['Backend development', 'Data Structures and Algorithms', 'Web development','Open-source projects'],
-  skills: ["C", "Java","Spring Boot", "PostgreSQL", "JavaScript", "HTML/CSS","Bootstrap","Git","Figma"],
   motto: 'Pushing boundaries, one commit at a time! ✨'
 }
 ```
-<div align="left">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bouchraakl&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=2F4F4F&bg_color=F5F5F5&hide_border=true&cache_seconds=14400&locale=en&border_radius=6" alt="Bouchra Akl GitHub Stats" /> 
-
+<h2>Skills</h2>
+<div align="left">
+  <h3>With experience :</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50">
 </div>
+  
+  <div align="left">
+  <h3>Currently Learning :</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50">
+</div>
+
+<h2>GitHub Stats</h2>
+
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=bouchraakl&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=2F4F4F&bg_color=F5F5F5&hide_border=true&cache_seconds=14400&locale=en&border_radius=6" alt="Bouchra Akl GitHub Stats" style="width: 45%; height: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouchraakl&layout=compact&title_color=FF69B4&icon_color=FF69B4&text_color=2F4F4F&bg_color=F5F5F5&border_radius=6" style="width: 34%; height: 100%;">
+</div>
+
 
 
 
