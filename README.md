@@ -43,12 +43,12 @@ const bouchraAkl = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50">
 </div>
 
-<h2>GitHub Stats</h2>
+<!-- <h2>GitHub Stats</h2>
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=bouchraakl&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=2F4F4F&bg_color=F5F5F5&hide_border=true&cache_seconds=14400&locale=en&border_radius=6" alt="Bouchra Akl GitHub Stats" style="width: 45%; height: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouchraakl&layout=compact&title_color=FF69B4&icon_color=FF69B4&text_color=2F4F4F&bg_color=F5F5F5&border_radius=6" style="width: 34%; height: 100%;">
-</div>
+</div> -->
 
 
 
