@@ -43,12 +43,18 @@ const bouchraAkl = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50">
 </div>
 
-<!-- <h2>GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
-<div style="display: flex;">
+<div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=bouchraakl&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=2F4F4F&bg_color=F5F5F5&hide_border=true&cache_seconds=14400&locale=en&border_radius=6" alt="Bouchra Akl GitHub Stats" style="width: 45%; height: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouchraakl&layout=compact&title_color=FF69B4&icon_color=FF69B4&text_color=2F4F4F&bg_color=F5F5F5&border_radius=6" style="width: 34%; height: 100%;">
-</div> -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bouchraakl&border_radius=6&background=F5F5F5&fire=FF69B4&ring=FF69B4&hide_border=true&theme=default&dates=FF69B4&excludeDaysLabel=FF69B4&sideLabels=FF69B4&stroke=FF69B4&currStreakNum=FF69B4&sideNums=FF69B4&currStreakLabel=FF69B4" alt="bouchraakl" style="width: 45%;" />
+</div>
+
+<div>
+  -----------------------------------------------------------------------------------------------------------------------------------
+  <img src="https://github-profile-trophy.vercel.app/?username=bouchraakl&theme=flat&row=1" alt="bouchraakl" />
+</div>
 
 
 
