@@ -1,6 +1,8 @@
 <h2> Hi, I'm Bouchra Akl!</h2>
 <img align='right' src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="230">
 
+![](https://komarev.com/ghpvc/?username=bouchraakl&color=e4405f)
+
 <p><em>Software Enginner Student at <a href="#">University of Uniamerica</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
