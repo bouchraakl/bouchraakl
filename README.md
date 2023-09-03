@@ -20,7 +20,7 @@
 const bouchraAkl = {
   pronouns: "she" | "her",
   nationality: ["Brazilian", "Lebanese"],
-  interests: ['Backend development', 'Data Structures and Algorithms', 'Web development','Open-source projects'],
+  interests: ['FullStack development, 'CyberSecurity', 'Open-source projects'],
   motto: 'Pushing boundaries, one commit at a time! ✨'
 }
 ```
