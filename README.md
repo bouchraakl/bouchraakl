@@ -20,13 +20,16 @@
 const bouchraAkl = {
   pronouns: "she" | "her",
   nationality: ["Brazilian", "Lebanese"],
-  interests: ['Full Stack development', 'Data Structures & Algorithms', 'Open-source projects'],
+  interests: ['Full Stack Development', 'Data Structures & Algorithms', 'Front-end Development'],
   motto: 'Pushing boundaries, one commit at a time! ✨'
 }
 ```
 <h2>Skills</h2>
 <div align="left">
   <h3>With experience :</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
@@ -43,9 +46,6 @@ const bouchraAkl = {
   <div align="left">
   <h3>Currently Learning :</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" />
 </div>
 
 <h2>GitHub Stats</h2>
